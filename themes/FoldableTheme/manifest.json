@@ -1,9 +1,9 @@
 {
-  "name": "MesaCountyTheme",
+  "name": "FoldableTheme",
   "platform": "HTML",
   "panels": [
     {
-      "name": "MesaCountyPanel",
+      "name": "FoldablePanel",
       "description": "This is foldable panel"
     }
   ],
@@ -11,7 +11,7 @@
     {
       "name": "default",
       "description": "this is default style",
-      "styleColor": "##a59f91"
+      "styleColor": "#586679"
     },
     {
       "name": "black",

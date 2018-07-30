@@ -1,7 +1,7 @@
 {
   "widgetOnScreen": {
     "widgets": [{
-      "uri": "themes/MesaCountyTheme/widgets/HeaderController/Widget",
+      "uri": "themes/FoldableTheme/widgets/HeaderController/Widget",
       "position": {
         "left": 0,
         "top": 0,
@@ -131,7 +131,7 @@
 
   "widgetPool": {
     "panel": {
-      "uri": "themes/MesaCountyTheme/panels/FoldablePanel/Panel",
+      "uri": "themes/FoldableTheme/panels/FoldablePanel/Panel",
       "position": {
         "top": 5,
         "right": 5,

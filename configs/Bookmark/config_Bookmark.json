@@ -1,0 +1,125 @@
+{
+  "bookmarks2D": [
+    {
+      "displayName": "Mesa County",
+      "name": "Mesa County",
+      "extent": {
+        "type": "extent",
+        "xmin": 658701.8904734297,
+        "ymin": 4262687.65306257,
+        "xmax": 812160.5307240436,
+        "ymax": 4368521.198062993,
+        "spatialReference": {
+          "wkid": 102206,
+          "latestWkid": 3742
+        }
+      },
+      "thumbnail": "${appPath}/configs/Bookmark/thumbnail.jpeg",
+      "isInWebmap": false
+    },
+    {
+      "displayName": "Grand Junction",
+      "name": "Grand Junction",
+      "extent": {
+        "type": "extent",
+        "xmin": 702060.5709407907,
+        "ymin": 4322648.970901872,
+        "xmax": 721242.9009721174,
+        "ymax": 4335878.164026924,
+        "spatialReference": {
+          "wkid": 102206,
+          "latestWkid": 3742
+        }
+      },
+      "thumbnail": "${appPath}/configs/Bookmark/thumbnail_1.jpeg",
+      "isInWebmap": false
+    },
+    {
+      "displayName": "Fruita",
+      "name": "Fruita",
+      "extent": {
+        "type": "extent",
+        "xmin": 691329.0494777476,
+        "ymin": 4333781.336916604,
+        "xmax": 701150.4024537869,
+        "ymax": 4340554.683796632,
+        "spatialReference": {
+          "wkid": 102206,
+          "latestWkid": 3742
+        }
+      },
+      "thumbnail": "${appPath}/configs/Bookmark/thumbnail_2.jpeg",
+      "isInWebmap": false
+    },
+    {
+      "displayName": "DeBeque",
+      "name": "DeBeque",
+      "extent": {
+        "type": "extent",
+        "xmin": 735835.4947406383,
+        "ymin": 4353764.826883583,
+        "xmax": 745656.8477166776,
+        "ymax": 4360538.173763611,
+        "spatialReference": {
+          "wkid": 102206,
+          "latestWkid": 3742
+        }
+      },
+      "thumbnail": "${appPath}/configs/Bookmark/thumbnail_3.jpeg",
+      "isInWebmap": false
+    },
+    {
+      "displayName": "Palisade",
+      "name": "Palisade",
+      "extent": {
+        "type": "extent",
+        "xmin": 726377.6799916755,
+        "ymin": 4330575.638838544,
+        "xmax": 731288.3564796953,
+        "ymax": 4333962.312278557,
+        "spatialReference": {
+          "wkid": 102206,
+          "latestWkid": 3742
+        }
+      },
+      "thumbnail": "${appPath}/configs/Bookmark/thumbnail_4.jpeg",
+      "isInWebmap": false
+    },
+    {
+      "displayName": "Collbran",
+      "name": "Collbran",
+      "extent": {
+        "type": "extent",
+        "xmin": 757602.2799408752,
+        "ymin": 4344405.966499195,
+        "xmax": 767423.6329169145,
+        "ymax": 4351179.313379223,
+        "spatialReference": {
+          "wkid": 102206,
+          "latestWkid": 3742
+        }
+      },
+      "thumbnail": "${appPath}/configs/Bookmark/thumbnail_5.jpeg",
+      "isInWebmap": false
+    },
+    {
+      "displayName": "Gateway",
+      "name": "Gateway",
+      "extent": {
+        "type": "extent",
+        "xmin": 677222.7608485038,
+        "ymin": 4302639.816300229,
+        "xmax": 753952.0809738107,
+        "ymax": 4355556.588800441,
+        "spatialReference": {
+          "wkid": 102206,
+          "latestWkid": 3742
+        }
+      },
+      "thumbnail": "${appPath}/configs/Bookmark/thumbnail_6.jpeg",
+      "isInWebmap": false
+    }
+  ],
+  "bookmarks3D": [],
+  "flyTime": 3000
+}

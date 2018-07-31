@@ -14,7 +14,7 @@
     "version": "2.5",
     "sharedTheme": {
       "useHeader": false,
-      "useLogo": true,
+      "useLogo": false,
       "isPortalSupport": true
     },
     "customStyles": {
@@ -28,8 +28,8 @@
     "emap.mesacounty.us",
     "gvt.mesacounty.us"
   ],
-  "title": "Mesa County GIS Web Viewer",
-  "subtitle": "",
+  "title": "Mesa County GIS Viewer",
+  "subtitle": "Cool",
   "keepAppState": true,
   "logo": "",
   "geometryService": "https://utility.arcgisonline.com/arcgis/rest/services/Geometry/GeometryServer",
@@ -69,7 +69,9 @@
         },
         "version": "2.5",
         "id": "widgets_Search_Widget_28",
-        "name": "Search"
+        "name": "Search",
+        "config": "configs/Search/config_Search.json",
+        "visible": false
       },
       {
         "uri": "widgets/Coordinate/Widget",
@@ -306,6 +308,18 @@
         "config": "configs/About/config_Help.json",
         "index": 8,
         "id": "widgets_About_Widget_25"
+      },
+      {
+        "name": "Search",
+        "label": "Search_2",
+        "version": "2.5",
+        "uri": "widgets/Search/Widget",
+        "config": "configs/Search/config_Search_2.json",
+        "index": 10,
+        "id": "widgets_Search_Widget_43",
+        "position": {
+          "relativeTo": "map"
+        }
       }
     ],
     "groups": []
@@ -887,5 +901,6 @@
       }
     },
     "settings": {}
-  }
+  },
+  "logoLink": ""
 }

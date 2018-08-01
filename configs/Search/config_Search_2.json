@@ -1,0 +1,70 @@
+{
+  "allPlaceholder": "",
+  "showInfoWindowOnSelect": true,
+  "sources": [
+    {
+      "layerId": "ParcelOnly4Query_3098_0",
+      "url": "https://mcgis.mesacounty.us/arcgis/rest/services/maps/ParcelOnly4Query/MapServer/0",
+      "name": "Address",
+      "placeholder": "",
+      "searchFields": [
+        "LOCATION"
+      ],
+      "displayField": "LOCATION",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "ParcelOnly4Query_3098_0",
+      "url": "https://mcgis.mesacounty.us/arcgis/rest/services/maps/ParcelOnly4Query/MapServer/0",
+      "name": "Account Number",
+      "placeholder": "",
+      "searchFields": [
+        "ACCOUNTNO"
+      ],
+      "displayField": "ACCOUNTNO",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "ParcelOnly4Query_3098_0",
+      "url": "https://mcgis.mesacounty.us/arcgis/rest/services/maps/ParcelOnly4Query/MapServer/0",
+      "name": "Parcel Number",
+      "placeholder": "",
+      "searchFields": [
+        "PARCEL_NUM"
+      ],
+      "displayField": "PARCEL_NUM",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "roads_and_intersections_1040",
+      "url": "https://mcgis.mesacounty.us/arcgis/rest/services/maps/roads_and_intersections/MapServer/0",
+      "name": "Intersection",
+      "placeholder": "",
+      "searchFields": [
+        "Intersection"
+      ],
+      "displayField": "Intersection",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "showLegend": true,
+  "contextMenu": {
+    "ZoomTo": true,
+    "Transparency": true,
+    "EnableOrDisablePopup": true,
+    "MoveupOrMovedown": true,
+    "OpenAttributeTable": true,
+    "DescriptionOrShowItemDetailsOrDownload": true
+  },
+  "layerOptions": {
+    "PlaceNames_5290": {
+      "display": false
+    },
+    "roads_and_intersections_1040": {
+      "display": false
+    },
+    "ParcelOnly4Query_3098": {
+      "display": true
+    },
+    "ParcelOnly4Query_3098_0": {
+      "display": true
+    },
+    "Census_Zip_8916": {
+      "display": true
+    },
+    "Census_Zip_8916_0": {
+      "display": true
+    },
+    "Census_Zip_8916_1": {
+      "display": true
+    },
+    "eSurveyor_4673": {
+      "display": true
+    },
+    "eSurveyor_4673_0": {
+      "display": true
+    },
+    "eSurveyor_4673_1": {
+      "display": true
+    },
+    "eSurveyor_4673_2": {
+      "display": true
+    },
+    "eSurveyor_4673_3": {
+      "display": true
+    },
+    "eSurveyor_4673_4": {
+      "display": true
+    },
+    "eSurveyor_4673_5": {
+      "display": true
+    },
+    "eSurveyor_4673_6": {
+      "display": true
+    },
+    "eSurveyor_4673_7": {
+      "display": true
+    },
+    "eSurveyor_4673_8": {
+      "display": true
+    },
+    "eSurveyor_4673_9": {
+      "display": true
+    },
+    "eSurveyor_4673_10": {
+      "display": true
+    },
+    "eSurveyor_4673_11": {
+      "display": true
+    },
+    "eSurveyor_4673_12": {
+      "display": true
+    },
+    "eSurveyor_4673_13": {
+      "display": true
+    },
+    "eSurveyor_4673_14": {
+      "display": true
+    },
+    "eSurveyor_4673_15": {
+      "display": true
+    },
+    "eSurveyor_4673_16": {
+      "display": true
+    },
+    "eSurveyor_4673_17": {
+      "display": true
+    },
+    "eSurveyor_4673_18": {
+      "display": true
+    },
+    "eSurveyor_4673_19": {
+      "display": true
+    },
+    "eSurveyor_4673_20": {
+      "display": true
+    },
+    "eSurveyor_4673_21": {
+      "display": true
+    },
+    "eSurveyor_4673_22": {
+      "display": true
+    },
+    "eSurveyor_4673_23": {
+      "display": true
+    },
+    "eSurveyor_4673_24": {
+      "display": true
+    }
+  }
+}

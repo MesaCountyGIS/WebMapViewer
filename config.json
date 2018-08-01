@@ -29,7 +29,7 @@
     "gvt.mesacounty.us"
   ],
   "title": "Mesa County GIS Viewer",
-  "subtitle": "Cool",
+  "subtitle": "",
   "keepAppState": true,
   "logo": "",
   "geometryService": "https://utility.arcgisonline.com/arcgis/rest/services/Geometry/GeometryServer",
@@ -255,14 +255,6 @@
     },
     "widgets": [
       {
-        "name": "BasemapGallery",
-        "version": "2.5",
-        "uri": "widgets/BasemapGallery/Widget",
-        "index": 2,
-        "id": "widgets_BasemapGallery_Widget_20",
-        "config": "configs/BasemapGallery/config_BasemapGallery.json"
-      },
-      {
         "uri": "widgets/Legend/Widget",
         "version": "2.5",
         "id": "widgets_Legend_Widget_18",
@@ -315,11 +307,27 @@
         "version": "2.5",
         "uri": "widgets/Search/Widget",
         "config": "configs/Search/config_Search_2.json",
-        "index": 10,
+        "index": 9,
         "id": "widgets_Search_Widget_43",
         "position": {
           "relativeTo": "map"
         }
+      },
+      {
+        "name": "LayerList",
+        "version": "2.5",
+        "uri": "widgets/LayerList/Widget",
+        "config": "configs/LayerList/config_LayerList.json",
+        "index": 11,
+        "id": "widgets_LayerList_Widget_44"
+      },
+      {
+        "name": "BasemapGallery",
+        "version": "2.5",
+        "uri": "widgets/BasemapGallery/Widget",
+        "index": 2,
+        "id": "widgets_BasemapGallery_Widget_20",
+        "config": "configs/BasemapGallery/config_BasemapGallery.json"
       }
     ],
     "groups": []
